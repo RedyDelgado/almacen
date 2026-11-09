@@ -1,4 +1,4 @@
-# Alamcen - 2026-ii
+# Almacen - 2026-ii
 
 Proyecto de ejemplo para el curso Desarrollo de Software I (UAC, Filial Quillabamba).
 
