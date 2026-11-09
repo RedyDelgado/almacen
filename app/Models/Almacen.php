@@ -11,4 +11,9 @@ class Almacen extends Model
     protected $fillable = [
         'nombre',
     ];
+
+    public function stock_almacen()
+    {
+        return $this->hasMany(Stock_Almacen::class);
+    }
 }

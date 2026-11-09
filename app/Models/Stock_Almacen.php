@@ -18,4 +18,7 @@ class Stock_Almacen extends Model
     {
         return $this->belongsTo(Producto::class);
     }
+    public function almacen(){
+        return $this->belongsTo(Almacen::class);
+    }
 }
