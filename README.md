@@ -19,7 +19,7 @@ Verifica que tengas todo instalado antes de empezar:
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/RedyDelgado/exmaple-app.git
+git clone https://github.com/RedyDelgado/almacen.git
 cd example-ap
 ```
 
